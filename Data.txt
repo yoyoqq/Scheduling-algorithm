@@ -1,0 +1,24 @@
+id, start time, service time, priority, IO time
+
+
+return for each process
+    start time
+    wait time
+    io utilization
+    end time
+
+return 
+    total time
+    cpu utilization 
+    thorugput
+    turnaronud time
+    waiting time
+    response time
+    completion time
+
+reutrn list of nodes
+
+https://github.com/ananthamapod/Multi-Level-Feedback-Queue-Scheduling-Algorithm
+https://github.com/ananthamapod/Multi-Level-Feedback-Queue-Scheduling-Algorithm
+
+https://github.com/ananthamapod/Pranker/blob/master/main.py
