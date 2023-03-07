@@ -1,0 +1,13 @@
+https://data-flair.training/blogs/scheduling-algorithms-in-operating-system/
+https://www.tutorialspoint.com/operating_system/os_process_scheduling_algorithms.htm
+https://www.futurelearn.com/info/courses/computer-systems/0/steps/53513
+https://en.wikipedia.org/wiki/Scheduling_(computing)
+https://www.guru99.com/cpu-scheduling-algorithms.html
+https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/
+https://github.com/ananthamapod/Multi-Level-Feedback-Queue-Scheduling-Algorithm
+https://github.com/Amir-Shamsi/cpu-scheduling-algorithm
+https://github.com/brilacasck/CPU-Scheduler
+https://github.com/nxbyte/Advanced-xv6
+https://github.com/skyousuf1070/OS_Programs
+https://github.com/Amir-Shamsi/cpu-scheduling-algorithm
+https://github.com/xtnctx/CPU-Scheduling-Simulator
