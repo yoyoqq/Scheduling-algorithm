@@ -1,0 +1,2 @@
+# Scheduling-algorithm
+CPU scheduling is a crucial part of operating systems that decides which process should be executed by the CPU. Different scheduling algorithms are used for different purposes, such as maximizing CPU utilization, minimizing wait time, or prioritizing specific processes. In this project, four commonly used CPU scheduling algorithms Round Robin, First Come First Serve (FCFS), Shortest Job First (SJF), and Multilevel Feedback Queue (MLFQ) have been developed.
